@@ -21,4 +21,9 @@ class TestController
         $rr = $this->testAction();
 
     }
+
+    public function test3()
+    {
+
+    }
 }
